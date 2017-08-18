@@ -1,0 +1,3 @@
+rootProject.name = 'UdemyAlbumImg'
+
+include ':app'
